@@ -1,6 +1,8 @@
 # ZongJi [![Build Status](https://travis-ci.org/rodrigogs/zongji.svg?branch=master)](https://travis-ci.org/rodrigogs/zongji)
 A MySQL binlog listener running on Node.js.
 
+This repo fixes the `Attempt to access memory outside buffer bounds` issue. Currently in production for `EasySales DataBridge Server`
+
 ZongJi (踪迹) is pronounced as `zōng jì` in Chinese.
 
 This package is a "pure JS" implementation based on [`node-mysql`](https://github.com/felixge/node-mysql). Since v0.2.0, The native part (which was written in C++) has been dropped.
