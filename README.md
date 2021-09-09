@@ -32,7 +32,7 @@ For a complete implementation see [`example.js`](example.js)...
 * Requires Node.js v4+
 
   ```bash
-  $ npm install zongji
+  $ npm install https://github.com/EasyTech-International-Sdn-Bhd/zongji.git#EasyTech
   ```
 
 * Enable MySQL binlog in `my.cnf`, restart MySQL server after making the changes.
