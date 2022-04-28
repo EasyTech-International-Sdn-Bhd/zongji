@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "iconv-lite": "^0.4.24",
-    "mysql": "^2.18.1"
+    "mysql": "https://github.com/mjm918/mysql.git#f81e3c2ad8d778019b48a01515ce7349b1af7eef"
   },
   "engines": {
     "node": ">=6"
